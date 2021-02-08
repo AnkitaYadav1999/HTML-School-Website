@@ -1,8 +1,9 @@
  p{
            text-align: center;
-           color: red;
+           color: white;
            font-family:Chiller;
-           background-color: coral;
+           font-size: 80px;
+           background-color: black;
     }
 
 #contact{
@@ -33,4 +34,10 @@ object{
 
 table{
     border: 0px;
+}
+
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 stretch;
 }
