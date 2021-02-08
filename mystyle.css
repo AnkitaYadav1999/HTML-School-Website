@@ -1,0 +1,36 @@
+ p{
+           text-align: center;
+           color: red;
+           font-family:Chiller;
+           background-color: coral;
+    }
+
+#contact{
+           text-align: center;
+           color: blue;
+           font-family:Cooper;
+           font-size: 35;
+
+    }
+
+
+.contact-info{
+       text-align: center;
+       color: red;
+       font-family:Cooper;
+       font-size: 20;
+
+}
+
+
+object{
+  text-align: center;
+  color: green;
+  font-family:Cooper;
+  font-size: 27;
+
+}
+
+table{
+    border: 0px;
+}
