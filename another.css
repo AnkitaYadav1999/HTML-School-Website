@@ -1,0 +1,57 @@
+
+div {
+    margin-bottom: 5px;
+}
+
+.header h1 {
+  text-align: center;
+  text-shadow: 2px 2px;
+}
+
+.product {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.product:hover{
+    box-shadow: 2px 2px  gray;
+}
+
+
+.product:nth-child(odd) {
+    background: yellow;
+}
+
+.product:nth-child(even) {
+    background: gray;
+}
+
+.about h1{
+
+      color: blue;
+      text-shadow: 2px 2px 5px red;
+      text-align: center;
+      font-family: Lucida Handwriting;
+}
+
+
+.aboutt:hover{
+    box-shadow: 2px 2px red;
+        border: 1px solid black;
+       padding: 5px;
+       text-color: black
+       text-align: center;
+
+
+
+}
+.aboutt:nth-child(even) {
+    background: pink;
+    width: 190;
+    text-align: center;
+}
+.aboutt:nth-child(odd) {
+    background: pink;
+    width: 190;
+    text-align: center;
+}
